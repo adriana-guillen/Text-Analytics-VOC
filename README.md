@@ -12,6 +12,8 @@ The analysis focuses on open-ended feedback gathered from three key sources:
 
 The objective is to extract service-quality insights from unstructured comments using **classical NLP techniques** — including **TF-IDF**, **Word2Vec**, and a roadmap to **BERT** — to support data-driven service improvement decisions.
 
+Disclaimer:
+All datasets were synthetically generated for portfolio purposes and do not contain any real or proprietary data from FEMSA or OxxoGas. All entries were simulated to reflect realistic sentiment patterns and customer behavior.
 ---
 
 ## 📁 Dataset
