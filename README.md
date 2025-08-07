@@ -1,14 +1,16 @@
-# 💬 Voice of the Customer & Employee – Sentiment Analysis at Oxxo Gas
+💬 Voice of the Customer & Employee – Sentiment Analysis at a Fuel Retail Chain.
 
 **Portfolio Project | Business Analytics | Text Analytics | NLP**
 
-This project simulates a real-world sentiment analysis initiative I led at **Oxxo Gas (FEMSA)** in 2012. It analyzes open-ended feedback from three unique sources:
+This project simulates a real-world sentiment analysis initiative I led in 2012 at **Oxxo Gas**, a major fuel retail chain in Mexico, owned by **FEMSA**, one of Latin America's largest retail and logistics conglomerates.
 
-- 🕵️ Mystery Shoppers (external evaluators)
-- 👥 External Customers (regular station clients)
-- 🧑‍💼 Internal Employees (FEMSA staff visiting stations)
+The analysis focuses on open-ended feedback gathered from three key sources:
 
-The goal is to extract insights from unstructured comments using **classical NLP techniques** — including **TF-IDF**, **Word2Vec**, and a roadmap to **BERT** — to support data-driven service improvement decisions.
+- 🕵️‍♀️ **Mystery Shoppers** (external evaluators)
+- 👥 **External Customers** (gas station clients)
+- 🧑‍💼 **Internal Employees** (company staff visiting the stations)
+
+The objective is to extract service-quality insights from unstructured comments using **classical NLP techniques** — including **TF-IDF**, **Word2Vec**, and a roadmap to **BERT** — to support data-driven service improvement decisions.
 
 ---
 
