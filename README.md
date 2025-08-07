@@ -114,5 +114,5 @@ Business Analyst | Data Strategist | NLP Enthusiast
 
 ## 📢 License
 
-This project is shared for educational and portfolio purposes only.  
+This project is shared for professional and portfolio purposes only.  
 All content is fictionalized and does not reflect actual customer data.
