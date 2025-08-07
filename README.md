@@ -73,6 +73,8 @@ The dataset is **synthetic**, built exclusively for portfolio purposes and inspi
 ---
 
 ## 🚀 How to Reproduce
+*This project runs in Python 3.10+ and has been tested in Jupyter Notebook.*
+
 
 ```bash
 # Install dependencies
