@@ -1,0 +1,1051 @@
+source,region,comment,sentiment,category
+Mystery Shopper,Central,Dirty restrooms and slow fueling process.,Negative,Signage
+Mystery Shopper,North,"Everything was as expected, no surprises.",Neutral,Timeliness
+Mystery Shopper,Pacific,Dirty restrooms and slow fueling process.,Negative,Signage
+Mystery Shopper,Southwest,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+Mystery Shopper,Central,The staff was friendly and the service was fast.,Positive,Timeliness
+Mystery Shopper,Southwest,Very good lighting and felt safe at night.,Positive,Cleanliness
+Mystery Shopper,Pacific,"No greeting, unclear instructions from the staff.",Negative,Signage
+Mystery Shopper,Southeast,Service was rude and inattentive.,Negative,Timeliness
+Mystery Shopper,South,All seemed fine but nothing stood out.,Neutral,Cleanliness
+Mystery Shopper,South,"Pump was clean, and directions were clear.",Positive,Staff
+Mystery Shopper,Northeast,Impressed by how quickly I was served.,Positive,Staff
+Mystery Shopper,Southeast,Clean station and very helpful attendants.,Positive,Cleanliness
+Mystery Shopper,Southwest,No particular complaints or praise.,Neutral,Staff
+Mystery Shopper,Southwest,I liked how organized the service area was.,Positive,Cleanliness
+Mystery Shopper,Southwest,"Standard visit, no issues noticed.",Neutral,Staff
+Mystery Shopper,Northeast,Very poor lighting and safety concerns at night.,Negative,Staff
+Mystery Shopper,Pacific,"No greeting, unclear instructions from the staff.",Negative,Cleanliness
+Mystery Shopper,Northeast,Impressed by how quickly I was served.,Positive,Staff
+Mystery Shopper,Northeast,Impressed by how quickly I was served.,Positive,Cleanliness
+Mystery Shopper,Southeast,It was just an average stop at the station.,Neutral,Signage
+Mystery Shopper,South,The service was neither good nor bad.,Neutral,Staff
+Mystery Shopper,Pacific,Great overall experience with clear signage.,Positive,Signage
+Mystery Shopper,Southwest,Dirty restrooms and slow fueling process.,Negative,Signage
+Mystery Shopper,Pacific,Very good lighting and felt safe at night.,Positive,Timeliness
+Mystery Shopper,Southeast,I liked how organized the service area was.,Positive,Staff
+Mystery Shopper,North,Service was rude and inattentive.,Negative,Signage
+Mystery Shopper,North,"The experience was okay, nothing special.",Neutral,Cleanliness
+Mystery Shopper,South,"Routine visit, nothing remarkable.",Neutral,Cleanliness
+Mystery Shopper,Pacific,Appreciated the quick payment process.,Positive,Staff
+Mystery Shopper,Southeast,I liked how organized the service area was.,Positive,Signage
+Mystery Shopper,South,The service was neither good nor bad.,Neutral,Timeliness
+Mystery Shopper,Southwest,Very good lighting and felt safe at night.,Positive,Staff
+Mystery Shopper,Southeast,Very poor lighting and safety concerns at night.,Negative,Payment
+Mystery Shopper,North,No particular complaints or praise.,Neutral,Timeliness
+Mystery Shopper,Central,Restroom was locked and not accessible.,Negative,Cleanliness
+Mystery Shopper,Pacific,"Everything was in order, fueling process was smooth.",Positive,Timeliness
+Mystery Shopper,Southwest,The pump didn’t work correctly and no help was available.,Negative,Cleanliness
+Mystery Shopper,Southwest,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+Mystery Shopper,Southwest,Station lacked maintenance and signage was confusing.,Negative,Cleanliness
+Mystery Shopper,Pacific,Dirty restrooms and slow fueling process.,Negative,Payment
+Mystery Shopper,Central,No particular complaints or praise.,Neutral,Staff
+Mystery Shopper,Southeast,The service was neither good nor bad.,Neutral,Cleanliness
+Mystery Shopper,Southwest,Station lacked maintenance and signage was confusing.,Negative,Timeliness
+Mystery Shopper,Northeast,Dirty restrooms and slow fueling process.,Negative,Signage
+Mystery Shopper,Southwest,Fueling experience met the basics.,Neutral,Timeliness
+Mystery Shopper,Northeast,The cashier was polite and efficient.,Positive,Timeliness
+Mystery Shopper,Central,Service was rude and inattentive.,Negative,Payment
+Mystery Shopper,Central,The visit was uneventful.,Neutral,Cleanliness
+Mystery Shopper,North,It was just an average stop at the station.,Neutral,Cleanliness
+Mystery Shopper,Central,Appreciated the quick payment process.,Positive,Cleanliness
+Mystery Shopper,Northeast,Restroom was locked and not accessible.,Negative,Cleanliness
+Mystery Shopper,North,I had trouble with the payment terminal.,Negative,Signage
+Mystery Shopper,North,Fueling experience met the basics.,Neutral,Staff
+Mystery Shopper,Southeast,Very poor lighting and safety concerns at night.,Negative,Timeliness
+Mystery Shopper,Pacific,"No greeting, unclear instructions from the staff.",Negative,Staff
+Mystery Shopper,Southeast,No particular complaints or praise.,Neutral,Payment
+Mystery Shopper,North,"Standard visit, no issues noticed.",Neutral,Timeliness
+Mystery Shopper,Central,The cashier was polite and efficient.,Positive,Payment
+Mystery Shopper,Southwest,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Mystery Shopper,Pacific,Clean station and very helpful attendants.,Positive,Signage
+Mystery Shopper,Central,Impressed by how quickly I was served.,Positive,Cleanliness
+Mystery Shopper,Southwest,"Standard visit, no issues noticed.",Neutral,Timeliness
+Mystery Shopper,North,The visit was uneventful.,Neutral,Payment
+Mystery Shopper,Southwest,Appreciated the quick payment process.,Positive,Fuel Service
+Mystery Shopper,Northeast,I liked how organized the service area was.,Positive,Fuel Service
+Mystery Shopper,Central,Clean station and very helpful attendants.,Positive,Signage
+Mystery Shopper,Southeast,No particular complaints or praise.,Neutral,Fuel Service
+Mystery Shopper,Pacific,"The experience was okay, nothing special.",Neutral,Signage
+Mystery Shopper,Central,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+Mystery Shopper,Northeast,The station was understaffed and unclean.,Negative,Cleanliness
+Mystery Shopper,North,Impressed by how quickly I was served.,Positive,Payment
+Mystery Shopper,Southeast,The service was neither good nor bad.,Neutral,Timeliness
+Mystery Shopper,North,The visit was uneventful.,Neutral,Cleanliness
+Mystery Shopper,Central,Fueling experience met the basics.,Neutral,Cleanliness
+Mystery Shopper,Northeast,Service was rude and inattentive.,Negative,Cleanliness
+Mystery Shopper,North,Impressed by how quickly I was served.,Positive,Fuel Service
+Mystery Shopper,North,The visit was uneventful.,Neutral,Fuel Service
+Mystery Shopper,Southeast,"Everything was in order, fueling process was smooth.",Positive,Cleanliness
+Mystery Shopper,Northeast,It was just an average stop at the station.,Neutral,Fuel Service
+Mystery Shopper,Pacific,"Routine visit, nothing remarkable.",Neutral,Signage
+Mystery Shopper,North,Restroom was locked and not accessible.,Negative,Timeliness
+Mystery Shopper,Central,"Everything was as expected, no surprises.",Neutral,Payment
+Mystery Shopper,Central,Service was rude and inattentive.,Negative,Signage
+Mystery Shopper,Central,"The experience was okay, nothing special.",Neutral,Payment
+Mystery Shopper,Northeast,Fueling experience met the basics.,Neutral,Payment
+Mystery Shopper,Southwest,The staff was friendly and the service was fast.,Positive,Cleanliness
+Mystery Shopper,Southwest,Clean station and very helpful attendants.,Positive,Cleanliness
+Mystery Shopper,Southeast,"No greeting, unclear instructions from the staff.",Negative,Cleanliness
+Mystery Shopper,Southwest,"No greeting, unclear instructions from the staff.",Negative,Payment
+Mystery Shopper,Central,Appreciated the quick payment process.,Positive,Fuel Service
+Mystery Shopper,Southwest,Very poor lighting and safety concerns at night.,Negative,Payment
+Mystery Shopper,North,It was just an average stop at the station.,Neutral,Signage
+Mystery Shopper,North,The station was understaffed and unclean.,Negative,Staff
+Mystery Shopper,Pacific,The service was neither good nor bad.,Neutral,Signage
+Mystery Shopper,South,The visit was uneventful.,Neutral,Cleanliness
+Mystery Shopper,Southwest,I liked how organized the service area was.,Positive,Payment
+Mystery Shopper,Southwest,Clean station and very helpful attendants.,Positive,Timeliness
+Mystery Shopper,North,Station lacked maintenance and signage was confusing.,Negative,Staff
+Mystery Shopper,South,Impressed by how quickly I was served.,Positive,Staff
+Mystery Shopper,Northeast,I liked how organized the service area was.,Positive,Payment
+Mystery Shopper,Southwest,Station lacked maintenance and signage was confusing.,Negative,Signage
+Mystery Shopper,Pacific,The wait was too long and staff was inattentive.,Negative,Payment
+Mystery Shopper,North,"Standard visit, no issues noticed.",Neutral,Staff
+Mystery Shopper,Pacific,Clean station and very helpful attendants.,Positive,Payment
+Mystery Shopper,South,Great overall experience with clear signage.,Positive,Payment
+Mystery Shopper,North,The cashier was polite and efficient.,Positive,Signage
+Mystery Shopper,Southwest,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+Mystery Shopper,Central,"The experience was okay, nothing special.",Neutral,Signage
+Mystery Shopper,Central,It was just an average stop at the station.,Neutral,Cleanliness
+Mystery Shopper,Pacific,The service was neither good nor bad.,Neutral,Staff
+Mystery Shopper,Southwest,I liked how organized the service area was.,Positive,Signage
+Mystery Shopper,Central,Fueling experience met the basics.,Neutral,Cleanliness
+Mystery Shopper,Southwest,"Everything was in order, fueling process was smooth.",Positive,Cleanliness
+Mystery Shopper,Southwest,All seemed fine but nothing stood out.,Neutral,Timeliness
+Mystery Shopper,Central,The service was neither good nor bad.,Neutral,Staff
+Mystery Shopper,South,"The experience was okay, nothing special.",Neutral,Timeliness
+Mystery Shopper,Pacific,"No greeting, unclear instructions from the staff.",Negative,Cleanliness
+Mystery Shopper,Northeast,Fueling experience met the basics.,Neutral,Fuel Service
+Mystery Shopper,North,I had trouble with the payment terminal.,Negative,Timeliness
+Mystery Shopper,Central,"Pump was clean, and directions were clear.",Positive,Timeliness
+Mystery Shopper,Northeast,The station was understaffed and unclean.,Negative,Fuel Service
+Mystery Shopper,South,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Mystery Shopper,Southeast,Dirty restrooms and slow fueling process.,Negative,Cleanliness
+Mystery Shopper,North,"Everything was as expected, no surprises.",Neutral,Fuel Service
+Mystery Shopper,Northeast,It was just an average stop at the station.,Neutral,Timeliness
+Mystery Shopper,Pacific,The staff was friendly and the service was fast.,Positive,Timeliness
+Mystery Shopper,South,No particular complaints or praise.,Neutral,Cleanliness
+Mystery Shopper,Pacific,No particular complaints or praise.,Neutral,Payment
+Mystery Shopper,South,Fueling experience met the basics.,Neutral,Cleanliness
+Mystery Shopper,North,Great overall experience with clear signage.,Positive,Payment
+Mystery Shopper,Central,"The experience was okay, nothing special.",Neutral,Payment
+Mystery Shopper,Pacific,No particular complaints or praise.,Neutral,Staff
+Mystery Shopper,Southwest,All seemed fine but nothing stood out.,Neutral,Cleanliness
+Mystery Shopper,North,All seemed fine but nothing stood out.,Neutral,Staff
+Mystery Shopper,Central,"Pump was clean, and directions were clear.",Positive,Payment
+Mystery Shopper,South,"No greeting, unclear instructions from the staff.",Negative,Fuel Service
+Mystery Shopper,Southwest,The cashier was polite and efficient.,Positive,Staff
+Mystery Shopper,Pacific,Dirty restrooms and slow fueling process.,Negative,Staff
+Mystery Shopper,Pacific,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+Mystery Shopper,Pacific,"Routine visit, nothing remarkable.",Neutral,Staff
+Mystery Shopper,North,I had trouble with the payment terminal.,Negative,Fuel Service
+Mystery Shopper,Pacific,The pump didn’t work correctly and no help was available.,Negative,Signage
+Mystery Shopper,Southwest,Appreciated the quick payment process.,Positive,Staff
+Mystery Shopper,Northeast,Fueling experience met the basics.,Neutral,Cleanliness
+Mystery Shopper,North,It was just an average stop at the station.,Neutral,Fuel Service
+Mystery Shopper,Pacific,Very poor lighting and safety concerns at night.,Negative,Staff
+Mystery Shopper,Southeast,The visit was uneventful.,Neutral,Signage
+Mystery Shopper,Southeast,Very good lighting and felt safe at night.,Positive,Signage
+Mystery Shopper,South,Clean station and very helpful attendants.,Positive,Payment
+Mystery Shopper,South,Very poor lighting and safety concerns at night.,Negative,Cleanliness
+Mystery Shopper,North,Great overall experience with clear signage.,Positive,Timeliness
+Mystery Shopper,Central,The staff was friendly and the service was fast.,Positive,Timeliness
+Mystery Shopper,Northeast,All seemed fine but nothing stood out.,Neutral,Cleanliness
+Mystery Shopper,Pacific,"Routine visit, nothing remarkable.",Neutral,Payment
+Mystery Shopper,Southeast,"Pump was clean, and directions were clear.",Positive,Fuel Service
+Mystery Shopper,Pacific,"Everything was in order, fueling process was smooth.",Positive,Signage
+Mystery Shopper,Northeast,Clean station and very helpful attendants.,Positive,Fuel Service
+Mystery Shopper,Northeast,"Everything was in order, fueling process was smooth.",Positive,Signage
+Mystery Shopper,Central,Restroom was locked and not accessible.,Negative,Payment
+Mystery Shopper,Southeast,Clean station and very helpful attendants.,Positive,Timeliness
+Mystery Shopper,Southwest,Fueling experience met the basics.,Neutral,Payment
+Mystery Shopper,Southwest,The visit was uneventful.,Neutral,Signage
+Mystery Shopper,Northeast,The pump didn’t work correctly and no help was available.,Negative,Payment
+Mystery Shopper,Pacific,The service was neither good nor bad.,Neutral,Fuel Service
+Mystery Shopper,Northeast,It was just an average stop at the station.,Neutral,Timeliness
+Mystery Shopper,Northeast,Station lacked maintenance and signage was confusing.,Negative,Payment
+Mystery Shopper,South,"Everything was as expected, no surprises.",Neutral,Fuel Service
+Mystery Shopper,North,Great overall experience with clear signage.,Positive,Staff
+Mystery Shopper,Southwest,No particular complaints or praise.,Neutral,Cleanliness
+Mystery Shopper,North,"Everything was in order, fueling process was smooth.",Positive,Fuel Service
+Mystery Shopper,Pacific,I had trouble with the payment terminal.,Negative,Timeliness
+Mystery Shopper,Southeast,"Pump was clean, and directions were clear.",Positive,Staff
+Mystery Shopper,Southeast,Restroom was locked and not accessible.,Negative,Cleanliness
+Mystery Shopper,Southeast,"Pump was clean, and directions were clear.",Positive,Payment
+Mystery Shopper,Northeast,The wait was too long and staff was inattentive.,Negative,Payment
+Mystery Shopper,Central,The visit was uneventful.,Neutral,Staff
+Mystery Shopper,Northeast,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+Mystery Shopper,Northeast,Service was rude and inattentive.,Negative,Payment
+Mystery Shopper,North,I liked how organized the service area was.,Positive,Staff
+Mystery Shopper,Central,The visit was uneventful.,Neutral,Fuel Service
+Mystery Shopper,Pacific,"Routine visit, nothing remarkable.",Neutral,Timeliness
+Mystery Shopper,Southwest,The service was neither good nor bad.,Neutral,Payment
+Mystery Shopper,Southwest,"Pump was clean, and directions were clear.",Positive,Payment
+Mystery Shopper,Central,The wait was too long and staff was inattentive.,Negative,Signage
+Mystery Shopper,Northeast,The service was neither good nor bad.,Neutral,Fuel Service
+Mystery Shopper,South,The staff was friendly and the service was fast.,Positive,Fuel Service
+Mystery Shopper,Southeast,"Everything was as expected, no surprises.",Neutral,Staff
+Mystery Shopper,South,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+Mystery Shopper,Southeast,"Standard visit, no issues noticed.",Neutral,Cleanliness
+Mystery Shopper,Central,Service was rude and inattentive.,Negative,Staff
+Mystery Shopper,Northeast,Clean station and very helpful attendants.,Positive,Signage
+Mystery Shopper,North,The staff was friendly and the service was fast.,Positive,Timeliness
+Mystery Shopper,North,Appreciated the quick payment process.,Positive,Timeliness
+Mystery Shopper,Pacific,I liked how organized the service area was.,Positive,Cleanliness
+Mystery Shopper,Southeast,"No greeting, unclear instructions from the staff.",Negative,Signage
+Mystery Shopper,North,No particular complaints or praise.,Neutral,Payment
+Mystery Shopper,Northeast,Dirty restrooms and slow fueling process.,Negative,Timeliness
+Mystery Shopper,Southwest,"Standard visit, no issues noticed.",Neutral,Cleanliness
+Mystery Shopper,Pacific,All seemed fine but nothing stood out.,Neutral,Fuel Service
+Mystery Shopper,Central,"Everything was as expected, no surprises.",Neutral,Payment
+Mystery Shopper,Central,"No greeting, unclear instructions from the staff.",Negative,Signage
+Mystery Shopper,Northeast,All seemed fine but nothing stood out.,Neutral,Cleanliness
+Mystery Shopper,South,The wait was too long and staff was inattentive.,Negative,Payment
+Mystery Shopper,Central,No particular complaints or praise.,Neutral,Payment
+Mystery Shopper,Central,The station was understaffed and unclean.,Negative,Fuel Service
+Mystery Shopper,Southeast,"Standard visit, no issues noticed.",Neutral,Staff
+Mystery Shopper,Pacific,Restroom was locked and not accessible.,Negative,Timeliness
+Mystery Shopper,Pacific,The service was neither good nor bad.,Neutral,Payment
+Mystery Shopper,Southwest,Station lacked maintenance and signage was confusing.,Negative,Payment
+Mystery Shopper,Southeast,The visit was uneventful.,Neutral,Signage
+Mystery Shopper,South,Station lacked maintenance and signage was confusing.,Negative,Timeliness
+Mystery Shopper,Southeast,Great overall experience with clear signage.,Positive,Timeliness
+Mystery Shopper,Southwest,All seemed fine but nothing stood out.,Neutral,Signage
+Mystery Shopper,Central,No particular complaints or praise.,Neutral,Fuel Service
+Mystery Shopper,Southeast,The service was neither good nor bad.,Neutral,Timeliness
+Mystery Shopper,South,It was just an average stop at the station.,Neutral,Staff
+Mystery Shopper,Southwest,Station lacked maintenance and signage was confusing.,Negative,Cleanliness
+Mystery Shopper,Central,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Mystery Shopper,Southeast,The pump didn’t work correctly and no help was available.,Negative,Payment
+Mystery Shopper,Pacific,I liked how organized the service area was.,Positive,Signage
+Mystery Shopper,Northeast,The visit was uneventful.,Neutral,Cleanliness
+Mystery Shopper,North,Great overall experience with clear signage.,Positive,Fuel Service
+Mystery Shopper,South,"No greeting, unclear instructions from the staff.",Negative,Signage
+Mystery Shopper,Southeast,The station was understaffed and unclean.,Negative,Payment
+Mystery Shopper,Southeast,The station was understaffed and unclean.,Negative,Signage
+Mystery Shopper,South,The station was understaffed and unclean.,Negative,Signage
+Mystery Shopper,South,It was just an average stop at the station.,Neutral,Staff
+Mystery Shopper,Pacific,Clean station and very helpful attendants.,Positive,Timeliness
+Mystery Shopper,Pacific,"Standard visit, no issues noticed.",Neutral,Payment
+Mystery Shopper,North,I had trouble with the payment terminal.,Negative,Timeliness
+Mystery Shopper,South,Restroom was locked and not accessible.,Negative,Signage
+Mystery Shopper,Southwest,Service was rude and inattentive.,Negative,Staff
+Mystery Shopper,South,Impressed by how quickly I was served.,Positive,Timeliness
+Mystery Shopper,South,The service was neither good nor bad.,Neutral,Cleanliness
+Mystery Shopper,North,Service was rude and inattentive.,Negative,Staff
+Mystery Shopper,Southwest,The staff was friendly and the service was fast.,Positive,Staff
+Mystery Shopper,Pacific,I had trouble with the payment terminal.,Negative,Fuel Service
+Mystery Shopper,Southwest,The staff was friendly and the service was fast.,Positive,Staff
+Mystery Shopper,Southeast,The visit was uneventful.,Neutral,Staff
+Mystery Shopper,South,The staff was friendly and the service was fast.,Positive,Fuel Service
+Mystery Shopper,Southeast,Clean station and very helpful attendants.,Positive,Fuel Service
+Mystery Shopper,Pacific,Appreciated the quick payment process.,Positive,Signage
+Mystery Shopper,North,"Everything was in order, fueling process was smooth.",Positive,Payment
+Mystery Shopper,North,"Standard visit, no issues noticed.",Neutral,Cleanliness
+Mystery Shopper,Southwest,The pump didn’t work correctly and no help was available.,Negative,Payment
+Mystery Shopper,Northeast,"No greeting, unclear instructions from the staff.",Negative,Payment
+Mystery Shopper,Southeast,The visit was uneventful.,Neutral,Staff
+Mystery Shopper,South,The pump didn’t work correctly and no help was available.,Negative,Payment
+Mystery Shopper,Southwest,The wait was too long and staff was inattentive.,Negative,Signage
+Mystery Shopper,Pacific,Impressed by how quickly I was served.,Positive,Timeliness
+Mystery Shopper,North,"Standard visit, no issues noticed.",Neutral,Timeliness
+Mystery Shopper,Central,Very good lighting and felt safe at night.,Positive,Timeliness
+Mystery Shopper,Southeast,"Pump was clean, and directions were clear.",Positive,Signage
+Mystery Shopper,South,Restroom was locked and not accessible.,Negative,Cleanliness
+Mystery Shopper,Pacific,Great overall experience with clear signage.,Positive,Staff
+Mystery Shopper,Central,Restroom was locked and not accessible.,Negative,Signage
+Mystery Shopper,Northeast,Great overall experience with clear signage.,Positive,Signage
+Mystery Shopper,Southeast,"No greeting, unclear instructions from the staff.",Negative,Cleanliness
+Mystery Shopper,Pacific,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Mystery Shopper,Central,The service was neither good nor bad.,Neutral,Cleanliness
+Mystery Shopper,Southwest,Great overall experience with clear signage.,Positive,Signage
+Mystery Shopper,Southeast,Station lacked maintenance and signage was confusing.,Negative,Cleanliness
+Mystery Shopper,Pacific,It was just an average stop at the station.,Neutral,Fuel Service
+Mystery Shopper,Southwest,Fueling experience met the basics.,Neutral,Fuel Service
+Mystery Shopper,Southwest,"Standard visit, no issues noticed.",Neutral,Cleanliness
+Mystery Shopper,Southwest,No particular complaints or praise.,Neutral,Staff
+Mystery Shopper,North,Clean station and very helpful attendants.,Positive,Signage
+Mystery Shopper,Central,Very poor lighting and safety concerns at night.,Negative,Signage
+Mystery Shopper,Central,All seemed fine but nothing stood out.,Neutral,Timeliness
+Mystery Shopper,Pacific,Fueling experience met the basics.,Neutral,Fuel Service
+Mystery Shopper,Southwest,The service was neither good nor bad.,Neutral,Fuel Service
+Mystery Shopper,Central,Restroom was locked and not accessible.,Negative,Fuel Service
+Mystery Shopper,South,"Routine visit, nothing remarkable.",Neutral,Staff
+Mystery Shopper,Northeast,Dirty restrooms and slow fueling process.,Negative,Timeliness
+Mystery Shopper,Pacific,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+Mystery Shopper,Northeast,"Routine visit, nothing remarkable.",Neutral,Payment
+Mystery Shopper,Central,I liked how organized the service area was.,Positive,Staff
+Mystery Shopper,Central,No particular complaints or praise.,Neutral,Fuel Service
+Mystery Shopper,Pacific,The wait was too long and staff was inattentive.,Negative,Payment
+Mystery Shopper,Central,"Routine visit, nothing remarkable.",Neutral,Timeliness
+Mystery Shopper,Southwest,The station was understaffed and unclean.,Negative,Fuel Service
+Mystery Shopper,Northeast,Restroom was locked and not accessible.,Negative,Cleanliness
+Mystery Shopper,Southwest,Great overall experience with clear signage.,Positive,Timeliness
+Mystery Shopper,Pacific,The visit was uneventful.,Neutral,Fuel Service
+Mystery Shopper,Pacific,The staff was friendly and the service was fast.,Positive,Payment
+Mystery Shopper,South,"Everything was in order, fueling process was smooth.",Positive,Payment
+Mystery Shopper,Southeast,Very good lighting and felt safe at night.,Positive,Cleanliness
+Mystery Shopper,Southeast,Clean station and very helpful attendants.,Positive,Cleanliness
+Mystery Shopper,Southeast,I had trouble with the payment terminal.,Negative,Signage
+Mystery Shopper,Pacific,Fueling experience met the basics.,Neutral,Staff
+Mystery Shopper,Southeast,The visit was uneventful.,Neutral,Timeliness
+Mystery Shopper,North,Fueling experience met the basics.,Neutral,Fuel Service
+Mystery Shopper,Southwest,Appreciated the quick payment process.,Positive,Signage
+Mystery Shopper,South,Clean station and very helpful attendants.,Positive,Fuel Service
+Mystery Shopper,South,Fueling experience met the basics.,Neutral,Cleanliness
+Mystery Shopper,Northeast,It was just an average stop at the station.,Neutral,Payment
+Mystery Shopper,Northeast,Restroom was locked and not accessible.,Negative,Timeliness
+Mystery Shopper,Southeast,Fueling experience met the basics.,Neutral,Staff
+Mystery Shopper,Northeast,Fueling experience met the basics.,Neutral,Payment
+Mystery Shopper,South,The visit was uneventful.,Neutral,Timeliness
+Mystery Shopper,Southwest,"No greeting, unclear instructions from the staff.",Negative,Fuel Service
+Mystery Shopper,Central,"Pump was clean, and directions were clear.",Positive,Staff
+Mystery Shopper,Pacific,Restroom was locked and not accessible.,Negative,Fuel Service
+Mystery Shopper,Southeast,The service was neither good nor bad.,Neutral,Cleanliness
+Mystery Shopper,Southwest,Very good lighting and felt safe at night.,Positive,Staff
+Mystery Shopper,Central,I liked how organized the service area was.,Positive,Payment
+Mystery Shopper,Pacific,"The experience was okay, nothing special.",Neutral,Timeliness
+Mystery Shopper,Central,The service was neither good nor bad.,Neutral,Fuel Service
+Mystery Shopper,Southwest,No particular complaints or praise.,Neutral,Signage
+Mystery Shopper,Northeast,"Standard visit, no issues noticed.",Neutral,Staff
+Mystery Shopper,Southeast,Service was rude and inattentive.,Negative,Staff
+Mystery Shopper,Northeast,Restroom was locked and not accessible.,Negative,Payment
+Mystery Shopper,Central,Appreciated the quick payment process.,Positive,Timeliness
+Mystery Shopper,North,Station lacked maintenance and signage was confusing.,Negative,Signage
+Mystery Shopper,Central,"Pump was clean, and directions were clear.",Positive,Signage
+Mystery Shopper,Southeast,Dirty restrooms and slow fueling process.,Negative,Timeliness
+Mystery Shopper,Central,Station lacked maintenance and signage was confusing.,Negative,Cleanliness
+Mystery Shopper,South,"The experience was okay, nothing special.",Neutral,Staff
+Mystery Shopper,North,"Routine visit, nothing remarkable.",Neutral,Timeliness
+Mystery Shopper,Southwest,The pump didn’t work correctly and no help was available.,Negative,Signage
+Mystery Shopper,North,"Everything was in order, fueling process was smooth.",Positive,Cleanliness
+Mystery Shopper,Southwest,The pump didn’t work correctly and no help was available.,Negative,Signage
+Mystery Shopper,Southwest,I liked how organized the service area was.,Positive,Timeliness
+Mystery Shopper,Pacific,I liked how organized the service area was.,Positive,Staff
+Mystery Shopper,Pacific,It was just an average stop at the station.,Neutral,Cleanliness
+Mystery Shopper,Pacific,It was just an average stop at the station.,Neutral,Payment
+Mystery Shopper,Southeast,Clean station and very helpful attendants.,Positive,Staff
+Mystery Shopper,Pacific,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+Mystery Shopper,Southeast,Station lacked maintenance and signage was confusing.,Negative,Staff
+Mystery Shopper,Northeast,"Pump was clean, and directions were clear.",Positive,Fuel Service
+Mystery Shopper,Southeast,Impressed by how quickly I was served.,Positive,Payment
+Mystery Shopper,South,All seemed fine but nothing stood out.,Neutral,Signage
+Mystery Shopper,Northeast,"The experience was okay, nothing special.",Neutral,Signage
+Mystery Shopper,Central,It was just an average stop at the station.,Neutral,Payment
+Mystery Shopper,Southwest,The wait was too long and staff was inattentive.,Negative,Signage
+Mystery Shopper,Northeast,It was just an average stop at the station.,Neutral,Timeliness
+Mystery Shopper,North,The station was understaffed and unclean.,Negative,Signage
+Mystery Shopper,South,Appreciated the quick payment process.,Positive,Signage
+Mystery Shopper,Pacific,I had trouble with the payment terminal.,Negative,Cleanliness
+Mystery Shopper,South,The wait was too long and staff was inattentive.,Negative,Fuel Service
+Mystery Shopper,South,Appreciated the quick payment process.,Positive,Signage
+Mystery Shopper,South,Clean station and very helpful attendants.,Positive,Staff
+Mystery Shopper,North,The pump didn’t work correctly and no help was available.,Negative,Timeliness
+Mystery Shopper,South,Very good lighting and felt safe at night.,Positive,Payment
+Mystery Shopper,Northeast,Station lacked maintenance and signage was confusing.,Negative,Timeliness
+Mystery Shopper,Northeast,The visit was uneventful.,Neutral,Staff
+Mystery Shopper,Northeast,The station was understaffed and unclean.,Negative,Cleanliness
+Mystery Shopper,North,"Standard visit, no issues noticed.",Neutral,Timeliness
+Mystery Shopper,Northeast,The pump didn’t work correctly and no help was available.,Negative,Payment
+Mystery Shopper,Northeast,"Standard visit, no issues noticed.",Neutral,Fuel Service
+External Customer,Southwest,Great overall experience with clear signage.,Positive,Cleanliness
+External Customer,Pacific,No particular complaints or praise.,Neutral,Signage
+External Customer,Southwest,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+External Customer,Central,The station was understaffed and unclean.,Negative,Signage
+External Customer,Central,I liked how organized the service area was.,Positive,Payment
+External Customer,Southwest,The station was understaffed and unclean.,Negative,Timeliness
+External Customer,Pacific,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+External Customer,Pacific,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+External Customer,Central,"Everything was in order, fueling process was smooth.",Positive,Cleanliness
+External Customer,Central,The visit was uneventful.,Neutral,Cleanliness
+External Customer,North,Very good lighting and felt safe at night.,Positive,Fuel Service
+External Customer,Pacific,No particular complaints or praise.,Neutral,Signage
+External Customer,Southeast,Service was rude and inattentive.,Negative,Payment
+External Customer,Southeast,I had trouble with the payment terminal.,Negative,Signage
+External Customer,Southwest,I liked how organized the service area was.,Positive,Fuel Service
+External Customer,Pacific,"The experience was okay, nothing special.",Neutral,Staff
+External Customer,Southeast,I liked how organized the service area was.,Positive,Timeliness
+External Customer,Pacific,"Standard visit, no issues noticed.",Neutral,Staff
+External Customer,Central,The station was understaffed and unclean.,Negative,Fuel Service
+External Customer,Central,"Everything was as expected, no surprises.",Neutral,Fuel Service
+External Customer,Pacific,Impressed by how quickly I was served.,Positive,Signage
+External Customer,Central,The wait was too long and staff was inattentive.,Negative,Staff
+External Customer,Northeast,"Everything was in order, fueling process was smooth.",Positive,Payment
+External Customer,Northeast,Clean station and very helpful attendants.,Positive,Payment
+External Customer,North,Appreciated the quick payment process.,Positive,Timeliness
+External Customer,Northeast,The service was neither good nor bad.,Neutral,Payment
+External Customer,Northeast,Great overall experience with clear signage.,Positive,Timeliness
+External Customer,South,Very good lighting and felt safe at night.,Positive,Timeliness
+External Customer,North,The staff was friendly and the service was fast.,Positive,Cleanliness
+External Customer,Southwest,"Everything was as expected, no surprises.",Neutral,Staff
+External Customer,South,"Everything was in order, fueling process was smooth.",Positive,Cleanliness
+External Customer,Southwest,"Pump was clean, and directions were clear.",Positive,Cleanliness
+External Customer,Southeast,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+External Customer,Southwest,Fueling experience met the basics.,Neutral,Cleanliness
+External Customer,North,Fueling experience met the basics.,Neutral,Payment
+External Customer,South,Very good lighting and felt safe at night.,Positive,Fuel Service
+External Customer,Central,The wait was too long and staff was inattentive.,Negative,Fuel Service
+External Customer,Pacific,"Routine visit, nothing remarkable.",Neutral,Cleanliness
+External Customer,Central,The visit was uneventful.,Neutral,Cleanliness
+External Customer,North,All seemed fine but nothing stood out.,Neutral,Cleanliness
+External Customer,Southwest,Great overall experience with clear signage.,Positive,Signage
+External Customer,Pacific,Service was rude and inattentive.,Negative,Staff
+External Customer,Southwest,All seemed fine but nothing stood out.,Neutral,Staff
+External Customer,Southwest,Fueling experience met the basics.,Neutral,Fuel Service
+External Customer,Northeast,Clean station and very helpful attendants.,Positive,Signage
+External Customer,Pacific,Service was rude and inattentive.,Negative,Timeliness
+External Customer,North,The visit was uneventful.,Neutral,Fuel Service
+External Customer,Southeast,The visit was uneventful.,Neutral,Fuel Service
+External Customer,South,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+External Customer,South,It was just an average stop at the station.,Neutral,Timeliness
+External Customer,Central,Restroom was locked and not accessible.,Negative,Cleanliness
+External Customer,Southeast,Clean station and very helpful attendants.,Positive,Cleanliness
+External Customer,Northeast,The station was understaffed and unclean.,Negative,Timeliness
+External Customer,Southwest,The wait was too long and staff was inattentive.,Negative,Payment
+External Customer,Pacific,The station was understaffed and unclean.,Negative,Cleanliness
+External Customer,Northeast,No particular complaints or praise.,Neutral,Signage
+External Customer,South,"The experience was okay, nothing special.",Neutral,Payment
+External Customer,Central,No particular complaints or praise.,Neutral,Payment
+External Customer,North,"No greeting, unclear instructions from the staff.",Negative,Signage
+External Customer,Northeast,"Everything was as expected, no surprises.",Neutral,Cleanliness
+External Customer,South,Fueling experience met the basics.,Neutral,Cleanliness
+External Customer,North,All seemed fine but nothing stood out.,Neutral,Fuel Service
+External Customer,Southwest,Very poor lighting and safety concerns at night.,Negative,Signage
+External Customer,Central,Service was rude and inattentive.,Negative,Payment
+External Customer,Central,Station lacked maintenance and signage was confusing.,Negative,Timeliness
+External Customer,South,It was just an average stop at the station.,Neutral,Staff
+External Customer,Northeast,"Everything was in order, fueling process was smooth.",Positive,Timeliness
+External Customer,Central,The pump didn’t work correctly and no help was available.,Negative,Timeliness
+External Customer,Central,The wait was too long and staff was inattentive.,Negative,Signage
+External Customer,Southeast,"No greeting, unclear instructions from the staff.",Negative,Fuel Service
+External Customer,North,No particular complaints or praise.,Neutral,Staff
+External Customer,Northeast,No particular complaints or praise.,Neutral,Payment
+External Customer,Central,Dirty restrooms and slow fueling process.,Negative,Timeliness
+External Customer,Central,Appreciated the quick payment process.,Positive,Signage
+External Customer,Southeast,Great overall experience with clear signage.,Positive,Signage
+External Customer,Southwest,The visit was uneventful.,Neutral,Fuel Service
+External Customer,North,It was just an average stop at the station.,Neutral,Payment
+External Customer,Southeast,The cashier was polite and efficient.,Positive,Cleanliness
+External Customer,Southeast,All seemed fine but nothing stood out.,Neutral,Payment
+External Customer,Central,Station lacked maintenance and signage was confusing.,Negative,Timeliness
+External Customer,Central,All seemed fine but nothing stood out.,Neutral,Cleanliness
+External Customer,North,Great overall experience with clear signage.,Positive,Timeliness
+External Customer,South,It was just an average stop at the station.,Neutral,Cleanliness
+External Customer,Pacific,I liked how organized the service area was.,Positive,Fuel Service
+External Customer,Southeast,"Everything was in order, fueling process was smooth.",Positive,Payment
+External Customer,Southwest,"No greeting, unclear instructions from the staff.",Negative,Payment
+External Customer,Central,The station was understaffed and unclean.,Negative,Fuel Service
+External Customer,Southeast,The wait was too long and staff was inattentive.,Negative,Cleanliness
+External Customer,Northeast,"Standard visit, no issues noticed.",Neutral,Staff
+External Customer,Southwest,The pump didn’t work correctly and no help was available.,Negative,Fuel Service
+External Customer,South,The pump didn’t work correctly and no help was available.,Negative,Cleanliness
+External Customer,South,"The experience was okay, nothing special.",Neutral,Timeliness
+External Customer,Northeast,Restroom was locked and not accessible.,Negative,Signage
+External Customer,Southeast,"Standard visit, no issues noticed.",Neutral,Cleanliness
+External Customer,Southwest,"Pump was clean, and directions were clear.",Positive,Fuel Service
+External Customer,Southeast,Dirty restrooms and slow fueling process.,Negative,Staff
+External Customer,North,The station was understaffed and unclean.,Negative,Staff
+External Customer,Southwest,Clean station and very helpful attendants.,Positive,Signage
+External Customer,Southwest,Very good lighting and felt safe at night.,Positive,Timeliness
+External Customer,Pacific,No particular complaints or praise.,Neutral,Signage
+External Customer,Central,Impressed by how quickly I was served.,Positive,Timeliness
+External Customer,North,"Everything was as expected, no surprises.",Neutral,Payment
+External Customer,North,Clean station and very helpful attendants.,Positive,Signage
+External Customer,Northeast,The visit was uneventful.,Neutral,Payment
+External Customer,Pacific,Restroom was locked and not accessible.,Negative,Payment
+External Customer,South,Very poor lighting and safety concerns at night.,Negative,Signage
+External Customer,Southeast,The service was neither good nor bad.,Neutral,Cleanliness
+External Customer,Pacific,The visit was uneventful.,Neutral,Staff
+External Customer,Central,All seemed fine but nothing stood out.,Neutral,Staff
+External Customer,South,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+External Customer,Central,"The experience was okay, nothing special.",Neutral,Staff
+External Customer,Pacific,"Standard visit, no issues noticed.",Neutral,Cleanliness
+External Customer,Southwest,Very poor lighting and safety concerns at night.,Negative,Fuel Service
+External Customer,Southwest,All seemed fine but nothing stood out.,Neutral,Signage
+External Customer,Northeast,I liked how organized the service area was.,Positive,Payment
+External Customer,South,"No greeting, unclear instructions from the staff.",Negative,Payment
+External Customer,North,Fueling experience met the basics.,Neutral,Cleanliness
+External Customer,Northeast,"Standard visit, no issues noticed.",Neutral,Staff
+External Customer,Southwest,Dirty restrooms and slow fueling process.,Negative,Signage
+External Customer,North,The staff was friendly and the service was fast.,Positive,Signage
+External Customer,Southwest,The visit was uneventful.,Neutral,Payment
+External Customer,South,I had trouble with the payment terminal.,Negative,Staff
+External Customer,Southeast,"Routine visit, nothing remarkable.",Neutral,Staff
+External Customer,Central,Very poor lighting and safety concerns at night.,Negative,Signage
+External Customer,Central,The station was understaffed and unclean.,Negative,Staff
+External Customer,Pacific,Very good lighting and felt safe at night.,Positive,Fuel Service
+External Customer,Pacific,It was just an average stop at the station.,Neutral,Signage
+External Customer,South,I had trouble with the payment terminal.,Negative,Cleanliness
+External Customer,South,I had trouble with the payment terminal.,Negative,Staff
+External Customer,North,The pump didn’t work correctly and no help was available.,Negative,Payment
+External Customer,South,Dirty restrooms and slow fueling process.,Negative,Payment
+External Customer,Northeast,No particular complaints or praise.,Neutral,Timeliness
+External Customer,Central,Service was rude and inattentive.,Negative,Signage
+External Customer,Southwest,The pump didn’t work correctly and no help was available.,Negative,Staff
+External Customer,South,The cashier was polite and efficient.,Positive,Timeliness
+External Customer,Northeast,The cashier was polite and efficient.,Positive,Fuel Service
+External Customer,North,Impressed by how quickly I was served.,Positive,Timeliness
+External Customer,Northeast,Great overall experience with clear signage.,Positive,Cleanliness
+External Customer,Northeast,Service was rude and inattentive.,Negative,Signage
+External Customer,Pacific,The wait was too long and staff was inattentive.,Negative,Staff
+External Customer,Southwest,I had trouble with the payment terminal.,Negative,Fuel Service
+External Customer,North,"Everything was in order, fueling process was smooth.",Positive,Signage
+External Customer,Pacific,I had trouble with the payment terminal.,Negative,Fuel Service
+External Customer,South,"Pump was clean, and directions were clear.",Positive,Signage
+External Customer,Southeast,"No greeting, unclear instructions from the staff.",Negative,Payment
+External Customer,North,The visit was uneventful.,Neutral,Payment
+External Customer,Northeast,Great overall experience with clear signage.,Positive,Fuel Service
+External Customer,Pacific,The cashier was polite and efficient.,Positive,Payment
+External Customer,Northeast,The visit was uneventful.,Neutral,Staff
+External Customer,Southwest,Fueling experience met the basics.,Neutral,Fuel Service
+External Customer,Northeast,Impressed by how quickly I was served.,Positive,Payment
+External Customer,Central,Great overall experience with clear signage.,Positive,Signage
+External Customer,Southwest,No particular complaints or praise.,Neutral,Cleanliness
+External Customer,Northeast,Service was rude and inattentive.,Negative,Cleanliness
+External Customer,Northeast,"Standard visit, no issues noticed.",Neutral,Timeliness
+External Customer,Southwest,The visit was uneventful.,Neutral,Timeliness
+External Customer,North,"Standard visit, no issues noticed.",Neutral,Fuel Service
+External Customer,Southeast,"The experience was okay, nothing special.",Neutral,Cleanliness
+External Customer,South,Fueling experience met the basics.,Neutral,Timeliness
+External Customer,South,"Standard visit, no issues noticed.",Neutral,Timeliness
+External Customer,Central,The cashier was polite and efficient.,Positive,Signage
+External Customer,Northeast,The station was understaffed and unclean.,Negative,Timeliness
+External Customer,South,The staff was friendly and the service was fast.,Positive,Fuel Service
+External Customer,Northeast,I had trouble with the payment terminal.,Negative,Signage
+External Customer,Southwest,The visit was uneventful.,Neutral,Cleanliness
+External Customer,South,The staff was friendly and the service was fast.,Positive,Timeliness
+External Customer,Pacific,Very good lighting and felt safe at night.,Positive,Payment
+External Customer,Central,The pump didn’t work correctly and no help was available.,Negative,Staff
+External Customer,Central,Great overall experience with clear signage.,Positive,Cleanliness
+External Customer,Pacific,"Pump was clean, and directions were clear.",Positive,Payment
+External Customer,Central,"Standard visit, no issues noticed.",Neutral,Fuel Service
+External Customer,Central,Service was rude and inattentive.,Negative,Signage
+External Customer,North,Very poor lighting and safety concerns at night.,Negative,Signage
+External Customer,Southeast,Great overall experience with clear signage.,Positive,Cleanliness
+External Customer,North,The station was understaffed and unclean.,Negative,Payment
+External Customer,Pacific,The service was neither good nor bad.,Neutral,Signage
+External Customer,South,Very good lighting and felt safe at night.,Positive,Cleanliness
+External Customer,Southwest,Service was rude and inattentive.,Negative,Payment
+External Customer,Southeast,The wait was too long and staff was inattentive.,Negative,Fuel Service
+External Customer,South,"Pump was clean, and directions were clear.",Positive,Staff
+External Customer,South,The wait was too long and staff was inattentive.,Negative,Cleanliness
+External Customer,Pacific,"Everything was as expected, no surprises.",Neutral,Signage
+External Customer,Northeast,Dirty restrooms and slow fueling process.,Negative,Payment
+External Customer,North,The station was understaffed and unclean.,Negative,Cleanliness
+External Customer,South,Fueling experience met the basics.,Neutral,Signage
+External Customer,Pacific,I liked how organized the service area was.,Positive,Fuel Service
+External Customer,Northeast,I had trouble with the payment terminal.,Negative,Timeliness
+External Customer,Central,I liked how organized the service area was.,Positive,Staff
+External Customer,Northeast,The staff was friendly and the service was fast.,Positive,Timeliness
+External Customer,South,The cashier was polite and efficient.,Positive,Payment
+External Customer,Southeast,Fueling experience met the basics.,Neutral,Staff
+External Customer,South,Impressed by how quickly I was served.,Positive,Staff
+External Customer,South,The cashier was polite and efficient.,Positive,Cleanliness
+External Customer,Southeast,"Routine visit, nothing remarkable.",Neutral,Signage
+External Customer,South,"Routine visit, nothing remarkable.",Neutral,Timeliness
+External Customer,South,The visit was uneventful.,Neutral,Payment
+External Customer,Pacific,"Standard visit, no issues noticed.",Neutral,Fuel Service
+External Customer,Southwest,"Pump was clean, and directions were clear.",Positive,Timeliness
+External Customer,South,Station lacked maintenance and signage was confusing.,Negative,Cleanliness
+External Customer,Pacific,The cashier was polite and efficient.,Positive,Staff
+External Customer,Southwest,The visit was uneventful.,Neutral,Signage
+External Customer,Pacific,The service was neither good nor bad.,Neutral,Fuel Service
+External Customer,Central,The visit was uneventful.,Neutral,Signage
+External Customer,Southeast,All seemed fine but nothing stood out.,Neutral,Staff
+External Customer,Central,The wait was too long and staff was inattentive.,Negative,Signage
+External Customer,South,The pump didn’t work correctly and no help was available.,Negative,Payment
+External Customer,Central,I had trouble with the payment terminal.,Negative,Timeliness
+External Customer,Central,Restroom was locked and not accessible.,Negative,Timeliness
+External Customer,Northeast,Impressed by how quickly I was served.,Positive,Signage
+External Customer,Southeast,No particular complaints or praise.,Neutral,Payment
+External Customer,North,Appreciated the quick payment process.,Positive,Signage
+External Customer,South,No particular complaints or praise.,Neutral,Fuel Service
+External Customer,North,Appreciated the quick payment process.,Positive,Payment
+External Customer,South,"Routine visit, nothing remarkable.",Neutral,Signage
+External Customer,Central,"Everything was as expected, no surprises.",Neutral,Cleanliness
+External Customer,Southeast,I had trouble with the payment terminal.,Negative,Payment
+External Customer,Central,Fueling experience met the basics.,Neutral,Staff
+External Customer,North,The visit was uneventful.,Neutral,Payment
+External Customer,North,The visit was uneventful.,Neutral,Cleanliness
+External Customer,Southeast,Clean station and very helpful attendants.,Positive,Timeliness
+External Customer,Central,Restroom was locked and not accessible.,Negative,Signage
+External Customer,Pacific,No particular complaints or praise.,Neutral,Cleanliness
+External Customer,South,Service was rude and inattentive.,Negative,Staff
+External Customer,Northeast,"Everything was in order, fueling process was smooth.",Positive,Staff
+External Customer,Central,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+External Customer,Northeast,Impressed by how quickly I was served.,Positive,Fuel Service
+External Customer,Southwest,The cashier was polite and efficient.,Positive,Payment
+External Customer,Northeast,The visit was uneventful.,Neutral,Payment
+External Customer,Central,Appreciated the quick payment process.,Positive,Cleanliness
+External Customer,Pacific,"Routine visit, nothing remarkable.",Neutral,Signage
+External Customer,Southeast,Fueling experience met the basics.,Neutral,Fuel Service
+External Customer,North,Dirty restrooms and slow fueling process.,Negative,Staff
+External Customer,Southeast,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+External Customer,South,Service was rude and inattentive.,Negative,Timeliness
+External Customer,North,Very poor lighting and safety concerns at night.,Negative,Timeliness
+External Customer,Northeast,Fueling experience met the basics.,Neutral,Cleanliness
+External Customer,North,Very good lighting and felt safe at night.,Positive,Staff
+External Customer,South,"Everything was in order, fueling process was smooth.",Positive,Signage
+External Customer,Southwest,The cashier was polite and efficient.,Positive,Staff
+External Customer,North,Great overall experience with clear signage.,Positive,Signage
+External Customer,North,Station lacked maintenance and signage was confusing.,Negative,Signage
+External Customer,Southwest,All seemed fine but nothing stood out.,Neutral,Cleanliness
+External Customer,Southwest,I had trouble with the payment terminal.,Negative,Payment
+External Customer,Pacific,"Everything was in order, fueling process was smooth.",Positive,Payment
+External Customer,South,Very poor lighting and safety concerns at night.,Negative,Payment
+External Customer,Central,The staff was friendly and the service was fast.,Positive,Cleanliness
+External Customer,South,Very poor lighting and safety concerns at night.,Negative,Signage
+External Customer,Southeast,Appreciated the quick payment process.,Positive,Payment
+External Customer,Southeast,The wait was too long and staff was inattentive.,Negative,Signage
+External Customer,Pacific,Station lacked maintenance and signage was confusing.,Negative,Staff
+External Customer,Northeast,"Everything was as expected, no surprises.",Neutral,Signage
+External Customer,Southeast,It was just an average stop at the station.,Neutral,Cleanliness
+External Customer,North,The wait was too long and staff was inattentive.,Negative,Fuel Service
+External Customer,Southeast,The visit was uneventful.,Neutral,Timeliness
+External Customer,North,All seemed fine but nothing stood out.,Neutral,Staff
+External Customer,Pacific,The station was understaffed and unclean.,Negative,Staff
+External Customer,Northeast,The service was neither good nor bad.,Neutral,Staff
+External Customer,Central,Service was rude and inattentive.,Negative,Staff
+External Customer,Central,I liked how organized the service area was.,Positive,Staff
+External Customer,North,"Everything was as expected, no surprises.",Neutral,Cleanliness
+External Customer,Southeast,Great overall experience with clear signage.,Positive,Payment
+External Customer,Northeast,"Everything was as expected, no surprises.",Neutral,Timeliness
+External Customer,Pacific,All seemed fine but nothing stood out.,Neutral,Staff
+External Customer,Southeast,"Everything was in order, fueling process was smooth.",Positive,Payment
+External Customer,South,The visit was uneventful.,Neutral,Fuel Service
+External Customer,Southeast,Clean station and very helpful attendants.,Positive,Payment
+External Customer,North,"Everything was as expected, no surprises.",Neutral,Payment
+External Customer,Central,"The experience was okay, nothing special.",Neutral,Staff
+External Customer,Northeast,All seemed fine but nothing stood out.,Neutral,Signage
+External Customer,South,Restroom was locked and not accessible.,Negative,Payment
+External Customer,Southeast,Clean station and very helpful attendants.,Positive,Timeliness
+External Customer,Northeast,No particular complaints or praise.,Neutral,Fuel Service
+External Customer,Southeast,"The experience was okay, nothing special.",Neutral,Cleanliness
+External Customer,North,Service was rude and inattentive.,Negative,Staff
+External Customer,Central,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+External Customer,Northeast,Restroom was locked and not accessible.,Negative,Payment
+External Customer,Pacific,All seemed fine but nothing stood out.,Neutral,Payment
+External Customer,Central,"Everything was in order, fueling process was smooth.",Positive,Fuel Service
+External Customer,Southwest,No particular complaints or praise.,Neutral,Staff
+External Customer,Southwest,Impressed by how quickly I was served.,Positive,Payment
+External Customer,Central,Fueling experience met the basics.,Neutral,Cleanliness
+External Customer,Pacific,"Everything was in order, fueling process was smooth.",Positive,Staff
+External Customer,Southeast,Fueling experience met the basics.,Neutral,Timeliness
+External Customer,North,Service was rude and inattentive.,Negative,Staff
+External Customer,North,The station was understaffed and unclean.,Negative,Fuel Service
+External Customer,Southwest,Station lacked maintenance and signage was confusing.,Negative,Staff
+External Customer,Southwest,Service was rude and inattentive.,Negative,Fuel Service
+External Customer,South,Very poor lighting and safety concerns at night.,Negative,Fuel Service
+External Customer,South,The cashier was polite and efficient.,Positive,Signage
+External Customer,Southwest,"Pump was clean, and directions were clear.",Positive,Staff
+External Customer,Southwest,The wait was too long and staff was inattentive.,Negative,Fuel Service
+External Customer,Southwest,All seemed fine but nothing stood out.,Neutral,Timeliness
+External Customer,Southwest,The wait was too long and staff was inattentive.,Negative,Fuel Service
+External Customer,Pacific,Very good lighting and felt safe at night.,Positive,Signage
+External Customer,North,The pump didn’t work correctly and no help was available.,Negative,Signage
+External Customer,Southwest,The staff was friendly and the service was fast.,Positive,Signage
+External Customer,Central,Impressed by how quickly I was served.,Positive,Fuel Service
+External Customer,North,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+External Customer,Southeast,"No greeting, unclear instructions from the staff.",Negative,Payment
+External Customer,Northeast,Restroom was locked and not accessible.,Negative,Signage
+External Customer,Pacific,The wait was too long and staff was inattentive.,Negative,Timeliness
+External Customer,Southwest,"No greeting, unclear instructions from the staff.",Negative,Staff
+External Customer,Southwest,Restroom was locked and not accessible.,Negative,Fuel Service
+External Customer,Southeast,The service was neither good nor bad.,Neutral,Payment
+External Customer,South,Fueling experience met the basics.,Neutral,Signage
+External Customer,Southwest,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+External Customer,South,Impressed by how quickly I was served.,Positive,Payment
+External Customer,South,"Everything was as expected, no surprises.",Neutral,Staff
+External Customer,Pacific,"No greeting, unclear instructions from the staff.",Negative,Signage
+External Customer,Southeast,No particular complaints or praise.,Neutral,Staff
+External Customer,South,Station lacked maintenance and signage was confusing.,Negative,Cleanliness
+External Customer,Southeast,Service was rude and inattentive.,Negative,Fuel Service
+External Customer,South,The service was neither good nor bad.,Neutral,Cleanliness
+External Customer,South,"Standard visit, no issues noticed.",Neutral,Fuel Service
+External Customer,Pacific,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+External Customer,Northeast,Impressed by how quickly I was served.,Positive,Payment
+External Customer,Pacific,Fueling experience met the basics.,Neutral,Staff
+External Customer,Southwest,Clean station and very helpful attendants.,Positive,Signage
+External Customer,North,"No greeting, unclear instructions from the staff.",Negative,Cleanliness
+External Customer,North,Service was rude and inattentive.,Negative,Signage
+External Customer,Central,The staff was friendly and the service was fast.,Positive,Fuel Service
+External Customer,Central,The visit was uneventful.,Neutral,Signage
+External Customer,Southwest,The staff was friendly and the service was fast.,Positive,Timeliness
+External Customer,Southeast,The visit was uneventful.,Neutral,Signage
+External Customer,South,Great overall experience with clear signage.,Positive,Staff
+External Customer,Northeast,The wait was too long and staff was inattentive.,Negative,Cleanliness
+External Customer,North,Very poor lighting and safety concerns at night.,Negative,Payment
+External Customer,North,The wait was too long and staff was inattentive.,Negative,Fuel Service
+External Customer,Northeast,The staff was friendly and the service was fast.,Positive,Fuel Service
+External Customer,Pacific,The service was neither good nor bad.,Neutral,Staff
+External Customer,South,The staff was friendly and the service was fast.,Positive,Payment
+External Customer,South,Dirty restrooms and slow fueling process.,Negative,Staff
+External Customer,Southwest,Fueling experience met the basics.,Neutral,Fuel Service
+External Customer,Southeast,Very good lighting and felt safe at night.,Positive,Staff
+External Customer,South,Clean station and very helpful attendants.,Positive,Timeliness
+External Customer,Pacific,Restroom was locked and not accessible.,Negative,Staff
+External Customer,Central,I had trouble with the payment terminal.,Negative,Signage
+External Customer,Southwest,It was just an average stop at the station.,Neutral,Signage
+External Customer,Southwest,"Everything was in order, fueling process was smooth.",Positive,Signage
+External Customer,Southwest,"Routine visit, nothing remarkable.",Neutral,Staff
+External Customer,Pacific,"Pump was clean, and directions were clear.",Positive,Cleanliness
+External Customer,Southeast,"Everything was in order, fueling process was smooth.",Positive,Staff
+External Customer,South,The staff was friendly and the service was fast.,Positive,Fuel Service
+External Customer,Northeast,I liked how organized the service area was.,Positive,Staff
+External Customer,Southwest,It was just an average stop at the station.,Neutral,Signage
+External Customer,South,The wait was too long and staff was inattentive.,Negative,Signage
+External Customer,Central,"Everything was as expected, no surprises.",Neutral,Signage
+External Customer,South,I liked how organized the service area was.,Positive,Timeliness
+External Customer,Pacific,Fueling experience met the basics.,Neutral,Staff
+External Customer,Pacific,Dirty restrooms and slow fueling process.,Negative,Staff
+Internal Employee,North,All seemed fine but nothing stood out.,Neutral,Timeliness
+Internal Employee,North,I liked how organized the service area was.,Positive,Fuel Service
+Internal Employee,South,Very poor lighting and safety concerns at night.,Negative,Fuel Service
+Internal Employee,Southeast,Service was rude and inattentive.,Negative,Payment
+Internal Employee,Northeast,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Internal Employee,Northeast,Very poor lighting and safety concerns at night.,Negative,Cleanliness
+Internal Employee,Southwest,Restroom was locked and not accessible.,Negative,Signage
+Internal Employee,Southwest,"Standard visit, no issues noticed.",Neutral,Cleanliness
+Internal Employee,Southwest,Very good lighting and felt safe at night.,Positive,Timeliness
+Internal Employee,North,Service was rude and inattentive.,Negative,Timeliness
+Internal Employee,Southeast,Fueling experience met the basics.,Neutral,Cleanliness
+Internal Employee,Pacific,"No greeting, unclear instructions from the staff.",Negative,Payment
+Internal Employee,Southwest,"Standard visit, no issues noticed.",Neutral,Fuel Service
+Internal Employee,North,I liked how organized the service area was.,Positive,Payment
+Internal Employee,Southwest,The visit was uneventful.,Neutral,Cleanliness
+Internal Employee,Pacific,Restroom was locked and not accessible.,Negative,Staff
+Internal Employee,Southeast,The wait was too long and staff was inattentive.,Negative,Staff
+Internal Employee,Southwest,Impressed by how quickly I was served.,Positive,Cleanliness
+Internal Employee,South,"Pump was clean, and directions were clear.",Positive,Signage
+Internal Employee,Central,Very good lighting and felt safe at night.,Positive,Cleanliness
+Internal Employee,South,"The experience was okay, nothing special.",Neutral,Fuel Service
+Internal Employee,Northeast,"Everything was in order, fueling process was smooth.",Positive,Signage
+Internal Employee,South,The pump didn’t work correctly and no help was available.,Negative,Fuel Service
+Internal Employee,Southeast,"Routine visit, nothing remarkable.",Neutral,Cleanliness
+Internal Employee,North,Service was rude and inattentive.,Negative,Signage
+Internal Employee,North,"Standard visit, no issues noticed.",Neutral,Payment
+Internal Employee,North,Fueling experience met the basics.,Neutral,Signage
+Internal Employee,Northeast,The staff was friendly and the service was fast.,Positive,Cleanliness
+Internal Employee,Pacific,The visit was uneventful.,Neutral,Signage
+Internal Employee,Southwest,The pump didn’t work correctly and no help was available.,Negative,Fuel Service
+Internal Employee,Southeast,Impressed by how quickly I was served.,Positive,Staff
+Internal Employee,North,Great overall experience with clear signage.,Positive,Signage
+Internal Employee,Northeast,The staff was friendly and the service was fast.,Positive,Signage
+Internal Employee,Northeast,All seemed fine but nothing stood out.,Neutral,Cleanliness
+Internal Employee,Central,Impressed by how quickly I was served.,Positive,Cleanliness
+Internal Employee,Southeast,The wait was too long and staff was inattentive.,Negative,Payment
+Internal Employee,North,The wait was too long and staff was inattentive.,Negative,Signage
+Internal Employee,Southeast,"Pump was clean, and directions were clear.",Positive,Timeliness
+Internal Employee,Northeast,"No greeting, unclear instructions from the staff.",Negative,Cleanliness
+Internal Employee,South,Very good lighting and felt safe at night.,Positive,Timeliness
+Internal Employee,South,Very poor lighting and safety concerns at night.,Negative,Payment
+Internal Employee,North,The station was understaffed and unclean.,Negative,Staff
+Internal Employee,North,Very good lighting and felt safe at night.,Positive,Fuel Service
+Internal Employee,Central,It was just an average stop at the station.,Neutral,Payment
+Internal Employee,Pacific,I had trouble with the payment terminal.,Negative,Signage
+Internal Employee,Southeast,Fueling experience met the basics.,Neutral,Cleanliness
+Internal Employee,Northeast,"Routine visit, nothing remarkable.",Neutral,Payment
+Internal Employee,Southeast,"Routine visit, nothing remarkable.",Neutral,Timeliness
+Internal Employee,North,"Routine visit, nothing remarkable.",Neutral,Payment
+Internal Employee,Northeast,"Everything was as expected, no surprises.",Neutral,Timeliness
+Internal Employee,Northeast,The service was neither good nor bad.,Neutral,Fuel Service
+Internal Employee,Southeast,Very good lighting and felt safe at night.,Positive,Fuel Service
+Internal Employee,North,Service was rude and inattentive.,Negative,Fuel Service
+Internal Employee,North,Great overall experience with clear signage.,Positive,Staff
+Internal Employee,Southeast,Dirty restrooms and slow fueling process.,Negative,Staff
+Internal Employee,Pacific,Very good lighting and felt safe at night.,Positive,Timeliness
+Internal Employee,Southeast,Great overall experience with clear signage.,Positive,Signage
+Internal Employee,Central,Very poor lighting and safety concerns at night.,Negative,Cleanliness
+Internal Employee,Pacific,Appreciated the quick payment process.,Positive,Signage
+Internal Employee,Southeast,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Internal Employee,Central,It was just an average stop at the station.,Neutral,Timeliness
+Internal Employee,Pacific,Clean station and very helpful attendants.,Positive,Fuel Service
+Internal Employee,Pacific,Appreciated the quick payment process.,Positive,Timeliness
+Internal Employee,Southwest,"Everything was as expected, no surprises.",Neutral,Staff
+Internal Employee,Southeast,"Routine visit, nothing remarkable.",Neutral,Payment
+Internal Employee,South,The station was understaffed and unclean.,Negative,Staff
+Internal Employee,Southeast,Fueling experience met the basics.,Neutral,Fuel Service
+Internal Employee,Northeast,I liked how organized the service area was.,Positive,Staff
+Internal Employee,South,The cashier was polite and efficient.,Positive,Fuel Service
+Internal Employee,Northeast,Appreciated the quick payment process.,Positive,Timeliness
+Internal Employee,Central,I had trouble with the payment terminal.,Negative,Staff
+Internal Employee,Southwest,Very poor lighting and safety concerns at night.,Negative,Signage
+Internal Employee,North,It was just an average stop at the station.,Neutral,Timeliness
+Internal Employee,Southeast,"Everything was as expected, no surprises.",Neutral,Payment
+Internal Employee,Southwest,I liked how organized the service area was.,Positive,Signage
+Internal Employee,South,The station was understaffed and unclean.,Negative,Fuel Service
+Internal Employee,Southeast,Restroom was locked and not accessible.,Negative,Timeliness
+Internal Employee,North,The station was understaffed and unclean.,Negative,Timeliness
+Internal Employee,Southeast,Service was rude and inattentive.,Negative,Timeliness
+Internal Employee,Southwest,The wait was too long and staff was inattentive.,Negative,Cleanliness
+Internal Employee,Northeast,The staff was friendly and the service was fast.,Positive,Cleanliness
+Internal Employee,Northeast,The service was neither good nor bad.,Neutral,Signage
+Internal Employee,Pacific,Clean station and very helpful attendants.,Positive,Timeliness
+Internal Employee,Southwest,Impressed by how quickly I was served.,Positive,Fuel Service
+Internal Employee,Southwest,"The experience was okay, nothing special.",Neutral,Signage
+Internal Employee,Southeast,Very poor lighting and safety concerns at night.,Negative,Signage
+Internal Employee,Central,"The experience was okay, nothing special.",Neutral,Payment
+Internal Employee,Central,The pump didn’t work correctly and no help was available.,Negative,Cleanliness
+Internal Employee,Southwest,Station lacked maintenance and signage was confusing.,Negative,Staff
+Internal Employee,Northeast,Very good lighting and felt safe at night.,Positive,Signage
+Internal Employee,Northeast,The pump didn’t work correctly and no help was available.,Negative,Timeliness
+Internal Employee,Southwest,Clean station and very helpful attendants.,Positive,Timeliness
+Internal Employee,Southwest,Impressed by how quickly I was served.,Positive,Payment
+Internal Employee,South,No particular complaints or praise.,Neutral,Fuel Service
+Internal Employee,Southeast,The cashier was polite and efficient.,Positive,Fuel Service
+Internal Employee,Pacific,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Internal Employee,Pacific,"Standard visit, no issues noticed.",Neutral,Signage
+Internal Employee,Southeast,Clean station and very helpful attendants.,Positive,Fuel Service
+Internal Employee,Southeast,Fueling experience met the basics.,Neutral,Cleanliness
+Internal Employee,Pacific,The wait was too long and staff was inattentive.,Negative,Timeliness
+Internal Employee,Northeast,I liked how organized the service area was.,Positive,Fuel Service
+Internal Employee,Southwest,The station was understaffed and unclean.,Negative,Cleanliness
+Internal Employee,North,The wait was too long and staff was inattentive.,Negative,Timeliness
+Internal Employee,Southeast,Very poor lighting and safety concerns at night.,Negative,Staff
+Internal Employee,Pacific,Clean station and very helpful attendants.,Positive,Staff
+Internal Employee,Pacific,Very poor lighting and safety concerns at night.,Negative,Cleanliness
+Internal Employee,Central,The cashier was polite and efficient.,Positive,Timeliness
+Internal Employee,Northeast,I had trouble with the payment terminal.,Negative,Signage
+Internal Employee,South,"Standard visit, no issues noticed.",Neutral,Timeliness
+Internal Employee,Southwest,"No greeting, unclear instructions from the staff.",Negative,Fuel Service
+Internal Employee,South,Service was rude and inattentive.,Negative,Fuel Service
+Internal Employee,Northeast,I had trouble with the payment terminal.,Negative,Signage
+Internal Employee,Southwest,Dirty restrooms and slow fueling process.,Negative,Signage
+Internal Employee,Central,"The experience was okay, nothing special.",Neutral,Fuel Service
+Internal Employee,South,Clean station and very helpful attendants.,Positive,Payment
+Internal Employee,Southeast,Very poor lighting and safety concerns at night.,Negative,Staff
+Internal Employee,Northeast,Great overall experience with clear signage.,Positive,Fuel Service
+Internal Employee,South,"Everything was as expected, no surprises.",Neutral,Payment
+Internal Employee,North,"Routine visit, nothing remarkable.",Neutral,Signage
+Internal Employee,Central,The pump didn’t work correctly and no help was available.,Negative,Payment
+Internal Employee,Pacific,"Everything was as expected, no surprises.",Neutral,Cleanliness
+Internal Employee,North,Great overall experience with clear signage.,Positive,Fuel Service
+Internal Employee,Pacific,I had trouble with the payment terminal.,Negative,Fuel Service
+Internal Employee,Central,No particular complaints or praise.,Neutral,Cleanliness
+Internal Employee,Southeast,Great overall experience with clear signage.,Positive,Staff
+Internal Employee,North,"Standard visit, no issues noticed.",Neutral,Cleanliness
+Internal Employee,Southeast,"Pump was clean, and directions were clear.",Positive,Payment
+Internal Employee,Southeast,Service was rude and inattentive.,Negative,Cleanliness
+Internal Employee,South,Clean station and very helpful attendants.,Positive,Payment
+Internal Employee,Southwest,Appreciated the quick payment process.,Positive,Staff
+Internal Employee,South,"The experience was okay, nothing special.",Neutral,Fuel Service
+Internal Employee,Pacific,"Standard visit, no issues noticed.",Neutral,Payment
+Internal Employee,Southwest,Appreciated the quick payment process.,Positive,Timeliness
+Internal Employee,North,The pump didn’t work correctly and no help was available.,Negative,Timeliness
+Internal Employee,South,It was just an average stop at the station.,Neutral,Fuel Service
+Internal Employee,North,Clean station and very helpful attendants.,Positive,Fuel Service
+Internal Employee,South,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+Internal Employee,South,The cashier was polite and efficient.,Positive,Timeliness
+Internal Employee,Southwest,Restroom was locked and not accessible.,Negative,Payment
+Internal Employee,Central,I liked how organized the service area was.,Positive,Timeliness
+Internal Employee,Southeast,"The experience was okay, nothing special.",Neutral,Staff
+Internal Employee,Northeast,The pump didn’t work correctly and no help was available.,Negative,Staff
+Internal Employee,Southeast,No particular complaints or praise.,Neutral,Signage
+Internal Employee,South,I had trouble with the payment terminal.,Negative,Staff
+Internal Employee,Southeast,"No greeting, unclear instructions from the staff.",Negative,Staff
+Internal Employee,South,"Pump was clean, and directions were clear.",Positive,Staff
+Internal Employee,Southwest,Restroom was locked and not accessible.,Negative,Timeliness
+Internal Employee,South,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+Internal Employee,Southwest,"Standard visit, no issues noticed.",Neutral,Timeliness
+Internal Employee,North,Service was rude and inattentive.,Negative,Signage
+Internal Employee,Pacific,The wait was too long and staff was inattentive.,Negative,Fuel Service
+Internal Employee,Southeast,"No greeting, unclear instructions from the staff.",Negative,Staff
+Internal Employee,Northeast,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+Internal Employee,North,Restroom was locked and not accessible.,Negative,Signage
+Internal Employee,South,"Everything was as expected, no surprises.",Neutral,Signage
+Internal Employee,Northeast,"Pump was clean, and directions were clear.",Positive,Fuel Service
+Internal Employee,Southwest,I liked how organized the service area was.,Positive,Fuel Service
+Internal Employee,Southwest,The pump didn’t work correctly and no help was available.,Negative,Payment
+Internal Employee,Southwest,The pump didn’t work correctly and no help was available.,Negative,Cleanliness
+Internal Employee,Southwest,Fueling experience met the basics.,Neutral,Signage
+Internal Employee,Northeast,Clean station and very helpful attendants.,Positive,Timeliness
+Internal Employee,North,The station was understaffed and unclean.,Negative,Signage
+Internal Employee,Southwest,The wait was too long and staff was inattentive.,Negative,Signage
+Internal Employee,Northeast,The pump didn’t work correctly and no help was available.,Negative,Staff
+Internal Employee,Central,"Standard visit, no issues noticed.",Neutral,Cleanliness
+Internal Employee,Southwest,"Everything was as expected, no surprises.",Neutral,Signage
+Internal Employee,Southwest,Service was rude and inattentive.,Negative,Signage
+Internal Employee,Southeast,"No greeting, unclear instructions from the staff.",Negative,Staff
+Internal Employee,Northeast,The visit was uneventful.,Neutral,Signage
+Internal Employee,North,Service was rude and inattentive.,Negative,Staff
+Internal Employee,Central,I liked how organized the service area was.,Positive,Staff
+Internal Employee,Central,"Standard visit, no issues noticed.",Neutral,Signage
+Internal Employee,South,The cashier was polite and efficient.,Positive,Staff
+Internal Employee,Southwest,"Everything was as expected, no surprises.",Neutral,Fuel Service
+Internal Employee,Central,The visit was uneventful.,Neutral,Fuel Service
+Internal Employee,South,Restroom was locked and not accessible.,Negative,Cleanliness
+Internal Employee,Northeast,"The experience was okay, nothing special.",Neutral,Signage
+Internal Employee,Northeast,The staff was friendly and the service was fast.,Positive,Staff
+Internal Employee,Pacific,Dirty restrooms and slow fueling process.,Negative,Timeliness
+Internal Employee,Southwest,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Internal Employee,South,I had trouble with the payment terminal.,Negative,Payment
+Internal Employee,North,The visit was uneventful.,Neutral,Fuel Service
+Internal Employee,North,I had trouble with the payment terminal.,Negative,Signage
+Internal Employee,Southeast,The pump didn’t work correctly and no help was available.,Negative,Cleanliness
+Internal Employee,North,Very poor lighting and safety concerns at night.,Negative,Fuel Service
+Internal Employee,Southeast,The pump didn’t work correctly and no help was available.,Negative,Cleanliness
+Internal Employee,North,"No greeting, unclear instructions from the staff.",Negative,Staff
+Internal Employee,Southwest,Dirty restrooms and slow fueling process.,Negative,Cleanliness
+Internal Employee,South,I had trouble with the payment terminal.,Negative,Staff
+Internal Employee,Central,I liked how organized the service area was.,Positive,Staff
+Internal Employee,Southwest,Restroom was locked and not accessible.,Negative,Signage
+Internal Employee,Southeast,All seemed fine but nothing stood out.,Neutral,Payment
+Internal Employee,Central,All seemed fine but nothing stood out.,Neutral,Staff
+Internal Employee,Southwest,The visit was uneventful.,Neutral,Timeliness
+Internal Employee,Southwest,Station lacked maintenance and signage was confusing.,Negative,Payment
+Internal Employee,South,"Everything was in order, fueling process was smooth.",Positive,Cleanliness
+Internal Employee,Central,Great overall experience with clear signage.,Positive,Timeliness
+Internal Employee,Southwest,The service was neither good nor bad.,Neutral,Fuel Service
+Internal Employee,North,All seemed fine but nothing stood out.,Neutral,Payment
+Internal Employee,North,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+Internal Employee,Pacific,Service was rude and inattentive.,Negative,Signage
+Internal Employee,North,Very good lighting and felt safe at night.,Positive,Fuel Service
+Internal Employee,North,The service was neither good nor bad.,Neutral,Staff
+Internal Employee,Central,All seemed fine but nothing stood out.,Neutral,Staff
+Internal Employee,North,I liked how organized the service area was.,Positive,Timeliness
+Internal Employee,Southwest,Fueling experience met the basics.,Neutral,Signage
+Internal Employee,Pacific,"Routine visit, nothing remarkable.",Neutral,Fuel Service
+Internal Employee,Southeast,The visit was uneventful.,Neutral,Timeliness
+Internal Employee,Central,Appreciated the quick payment process.,Positive,Timeliness
+Internal Employee,South,"The experience was okay, nothing special.",Neutral,Timeliness
+Internal Employee,North,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+Internal Employee,Southwest,Restroom was locked and not accessible.,Negative,Payment
+Internal Employee,Central,Appreciated the quick payment process.,Positive,Staff
+Internal Employee,Southwest,The station was understaffed and unclean.,Negative,Cleanliness
+Internal Employee,Southwest,Restroom was locked and not accessible.,Negative,Timeliness
+Internal Employee,Pacific,"Standard visit, no issues noticed.",Neutral,Signage
+Internal Employee,Northeast,Great overall experience with clear signage.,Positive,Cleanliness
+Internal Employee,South,It was just an average stop at the station.,Neutral,Cleanliness
+Internal Employee,Northeast,"Standard visit, no issues noticed.",Neutral,Timeliness
+Internal Employee,Pacific,Appreciated the quick payment process.,Positive,Staff
+Internal Employee,Pacific,Very poor lighting and safety concerns at night.,Negative,Fuel Service
+Internal Employee,North,Appreciated the quick payment process.,Positive,Timeliness
+Internal Employee,Southwest,The staff was friendly and the service was fast.,Positive,Staff
+Internal Employee,Southwest,Station lacked maintenance and signage was confusing.,Negative,Payment
+Internal Employee,Pacific,The cashier was polite and efficient.,Positive,Staff
+Internal Employee,South,All seemed fine but nothing stood out.,Neutral,Payment
+Internal Employee,North,Dirty restrooms and slow fueling process.,Negative,Fuel Service
+Internal Employee,Northeast,Great overall experience with clear signage.,Positive,Signage
+Internal Employee,North,"Everything was in order, fueling process was smooth.",Positive,Timeliness
+Internal Employee,Northeast,The station was understaffed and unclean.,Negative,Timeliness
+Internal Employee,Southeast,The pump didn’t work correctly and no help was available.,Negative,Timeliness
+Internal Employee,Pacific,Station lacked maintenance and signage was confusing.,Negative,Fuel Service
+Internal Employee,Central,The visit was uneventful.,Neutral,Signage
+Internal Employee,Southwest,"Pump was clean, and directions were clear.",Positive,Signage
+Internal Employee,Southeast,No particular complaints or praise.,Neutral,Fuel Service
+Internal Employee,Central,All seemed fine but nothing stood out.,Neutral,Signage
+Internal Employee,Pacific,I liked how organized the service area was.,Positive,Signage
+Internal Employee,Northeast,The station was understaffed and unclean.,Negative,Cleanliness
+Internal Employee,North,The pump didn’t work correctly and no help was available.,Negative,Fuel Service
+Internal Employee,South,I liked how organized the service area was.,Positive,Staff
+Internal Employee,Southwest,No particular complaints or praise.,Neutral,Payment
+Internal Employee,Northeast,Appreciated the quick payment process.,Positive,Fuel Service
+Internal Employee,Central,"The experience was okay, nothing special.",Neutral,Cleanliness
+Internal Employee,Central,Restroom was locked and not accessible.,Negative,Cleanliness
+Internal Employee,Southeast,I liked how organized the service area was.,Positive,Cleanliness
+Internal Employee,Pacific,"Everything was as expected, no surprises.",Neutral,Timeliness
+Internal Employee,North,Station lacked maintenance and signage was confusing.,Negative,Staff
+Internal Employee,South,The cashier was polite and efficient.,Positive,Cleanliness
+Internal Employee,Central,The service was neither good nor bad.,Neutral,Fuel Service
+Internal Employee,Pacific,Station lacked maintenance and signage was confusing.,Negative,Signage
+Internal Employee,Pacific,"Pump was clean, and directions were clear.",Positive,Cleanliness
+Internal Employee,Central,Dirty restrooms and slow fueling process.,Negative,Timeliness
+Internal Employee,North,"Standard visit, no issues noticed.",Neutral,Payment
+Internal Employee,Pacific,Very good lighting and felt safe at night.,Positive,Fuel Service
+Internal Employee,Pacific,The staff was friendly and the service was fast.,Positive,Staff
+Internal Employee,Pacific,"Pump was clean, and directions were clear.",Positive,Timeliness
+Internal Employee,North,"Standard visit, no issues noticed.",Neutral,Fuel Service
+Internal Employee,Central,Clean station and very helpful attendants.,Positive,Staff
+Internal Employee,North,It was just an average stop at the station.,Neutral,Fuel Service
+Internal Employee,Central,"Everything was in order, fueling process was smooth.",Positive,Payment
+Internal Employee,Southwest,The wait was too long and staff was inattentive.,Negative,Signage
+Internal Employee,South,I liked how organized the service area was.,Positive,Signage
+Internal Employee,Southeast,"Everything was in order, fueling process was smooth.",Positive,Payment
+Internal Employee,Northeast,Restroom was locked and not accessible.,Negative,Timeliness
+Internal Employee,North,Clean station and very helpful attendants.,Positive,Cleanliness
+Internal Employee,South,The pump didn’t work correctly and no help was available.,Negative,Fuel Service
+Internal Employee,North,The service was neither good nor bad.,Neutral,Staff
+Internal Employee,North,Dirty restrooms and slow fueling process.,Negative,Payment
+Internal Employee,Pacific,Very poor lighting and safety concerns at night.,Negative,Payment
+Internal Employee,Northeast,"The experience was okay, nothing special.",Neutral,Signage
+Internal Employee,Southwest,"Everything was as expected, no surprises.",Neutral,Payment
+Internal Employee,Pacific,"No greeting, unclear instructions from the staff.",Negative,Fuel Service
+Internal Employee,Northeast,"The experience was okay, nothing special.",Neutral,Timeliness
+Internal Employee,Central,"Routine visit, nothing remarkable.",Neutral,Timeliness
+Internal Employee,Central,All seemed fine but nothing stood out.,Neutral,Payment
+Internal Employee,South,The cashier was polite and efficient.,Positive,Timeliness
+Internal Employee,Southeast,All seemed fine but nothing stood out.,Neutral,Staff
+Internal Employee,Northeast,I had trouble with the payment terminal.,Negative,Fuel Service
+Internal Employee,Southwest,The staff was friendly and the service was fast.,Positive,Cleanliness
+Internal Employee,North,Great overall experience with clear signage.,Positive,Cleanliness
+Internal Employee,Southwest,"Pump was clean, and directions were clear.",Positive,Staff
+Internal Employee,Northeast,Service was rude and inattentive.,Negative,Fuel Service
+Internal Employee,Central,"Routine visit, nothing remarkable.",Neutral,Signage
+Internal Employee,Southwest,Service was rude and inattentive.,Negative,Timeliness
+Internal Employee,South,"Standard visit, no issues noticed.",Neutral,Cleanliness
+Internal Employee,Northeast,"No greeting, unclear instructions from the staff.",Negative,Timeliness
+Internal Employee,Southeast,The station was understaffed and unclean.,Negative,Payment
+Internal Employee,South,Dirty restrooms and slow fueling process.,Negative,Signage
+Internal Employee,Central,"Everything was as expected, no surprises.",Neutral,Timeliness
+Internal Employee,Central,"Pump was clean, and directions were clear.",Positive,Fuel Service
+Internal Employee,Central,Very poor lighting and safety concerns at night.,Negative,Staff
+Internal Employee,Central,I had trouble with the payment terminal.,Negative,Cleanliness
+Internal Employee,Pacific,I had trouble with the payment terminal.,Negative,Cleanliness
+Internal Employee,South,I liked how organized the service area was.,Positive,Payment
+Internal Employee,North,Station lacked maintenance and signage was confusing.,Negative,Staff
+Internal Employee,Pacific,Great overall experience with clear signage.,Positive,Cleanliness
+Internal Employee,Northeast,The cashier was polite and efficient.,Positive,Fuel Service
+Internal Employee,Central,Fueling experience met the basics.,Neutral,Staff
+Internal Employee,Pacific,Very poor lighting and safety concerns at night.,Negative,Cleanliness
+Internal Employee,Southwest,The visit was uneventful.,Neutral,Staff
+Internal Employee,Northeast,I liked how organized the service area was.,Positive,Payment
+Internal Employee,North,The cashier was polite and efficient.,Positive,Staff
+Internal Employee,Pacific,Appreciated the quick payment process.,Positive,Signage
+Internal Employee,Pacific,Impressed by how quickly I was served.,Positive,Payment
+Internal Employee,Northeast,The staff was friendly and the service was fast.,Positive,Cleanliness
+Internal Employee,Southeast,The staff was friendly and the service was fast.,Positive,Staff
+Internal Employee,North,The service was neither good nor bad.,Neutral,Cleanliness
+Internal Employee,North,The pump didn’t work correctly and no help was available.,Negative,Staff
+Internal Employee,Pacific,"Pump was clean, and directions were clear.",Positive,Staff
+Internal Employee,Southwest,"Standard visit, no issues noticed.",Neutral,Staff
+Internal Employee,Pacific,Very good lighting and felt safe at night.,Positive,Cleanliness
+Internal Employee,Northeast,Impressed by how quickly I was served.,Positive,Payment
+Internal Employee,Central,"Pump was clean, and directions were clear.",Positive,Fuel Service
+Internal Employee,South,It was just an average stop at the station.,Neutral,Cleanliness
+Internal Employee,Central,Restroom was locked and not accessible.,Negative,Staff
+Internal Employee,Southwest,Great overall experience with clear signage.,Positive,Staff
+Internal Employee,North,Very poor lighting and safety concerns at night.,Negative,Fuel Service
+Internal Employee,Southeast,All seemed fine but nothing stood out.,Neutral,Timeliness
+Internal Employee,Northeast,Service was rude and inattentive.,Negative,Timeliness
+Internal Employee,Southeast,The staff was friendly and the service was fast.,Positive,Cleanliness
+Internal Employee,South,Very good lighting and felt safe at night.,Positive,Signage
+Internal Employee,South,The wait was too long and staff was inattentive.,Negative,Cleanliness
+Internal Employee,Northeast,The pump didn’t work correctly and no help was available.,Negative,Signage
+Internal Employee,Central,Station lacked maintenance and signage was confusing.,Negative,Timeliness
+Internal Employee,Southeast,"No greeting, unclear instructions from the staff.",Negative,Fuel Service
+Internal Employee,Pacific,"Everything was in order, fueling process was smooth.",Positive,Staff
+Internal Employee,North,The staff was friendly and the service was fast.,Positive,Payment
+Internal Employee,Southeast,No particular complaints or praise.,Neutral,Signage
+Internal Employee,Central,Appreciated the quick payment process.,Positive,Payment
+Internal Employee,Central,"Pump was clean, and directions were clear.",Positive,Payment
+Internal Employee,Southeast,The wait was too long and staff was inattentive.,Negative,Signage
+Internal Employee,South,Impressed by how quickly I was served.,Positive,Staff
+Internal Employee,Pacific,"Routine visit, nothing remarkable.",Neutral,Signage
+Internal Employee,Southeast,No particular complaints or praise.,Neutral,Staff
+Internal Employee,North,Clean station and very helpful attendants.,Positive,Timeliness
+Internal Employee,North,Dirty restrooms and slow fueling process.,Negative,Cleanliness
+Internal Employee,Southeast,I liked how organized the service area was.,Positive,Staff
+Internal Employee,Southwest,"Standard visit, no issues noticed.",Neutral,Staff
+Internal Employee,South,I liked how organized the service area was.,Positive,Fuel Service
+Internal Employee,Central,"Standard visit, no issues noticed.",Neutral,Timeliness
+Internal Employee,Northeast,Station lacked maintenance and signage was confusing.,Negative,Signage
+Internal Employee,Central,Very poor lighting and safety concerns at night.,Negative,Timeliness
+Internal Employee,Central,The service was neither good nor bad.,Neutral,Signage
+Internal Employee,Southeast,The cashier was polite and efficient.,Positive,Payment
+Internal Employee,South,Great overall experience with clear signage.,Positive,Timeliness
+Internal Employee,Northeast,"Pump was clean, and directions were clear.",Positive,Fuel Service
+Internal Employee,North,Service was rude and inattentive.,Negative,Cleanliness
+Internal Employee,Northeast,"Standard visit, no issues noticed.",Neutral,Timeliness
+Internal Employee,Central,The staff was friendly and the service was fast.,Positive,Timeliness
+Internal Employee,Northeast,Impressed by how quickly I was served.,Positive,Fuel Service
