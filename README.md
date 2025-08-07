@@ -97,6 +97,7 @@ Make sure `OxxoGas_VOC.csv` is in the same folder.
 ---
 
 ## 🔗 Related Projects
+(*Explore finished and upcoming projects from this portfolio series*)
 
 - [Prescriptive Analytics: Inventory Optimization](#)
 - [Predictive Analytics: Lost Sales Estimation](#)
