@@ -115,4 +115,4 @@ Business Analyst | Data Strategist | NLP Enthusiast
 ## 📢 License
 
 This project is shared for professional and portfolio purposes only.  
-All content is fictionalized and does not reflect actual customer data.
+All data is fictionalized and does not reflect actual enterprise or customer data.
