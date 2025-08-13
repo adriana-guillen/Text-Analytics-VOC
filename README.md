@@ -111,11 +111,9 @@ Make sure `OxxoGas_VOC.csv` is in the same folder.
 
 ## 📂 File Structure
 
-```
-├── Text Analytics Project VOC.ipynb   # Full analysis
-├── OxxoGas_VOC.csv                    # Synthetic dataset
-└── README.md                          # Project overview
-```
+├── text_analytics_voc_oxxogas.ipynb # Full analysis — Classical NLP (TF‑IDF, Word2Vec) + BERT sentiment classification
+├── OxxoGas_VOC_simulated_dataset.csv # Synthetic dataset for analysis
+├── README.md # Project overview and methodology
 
 ---
 
