@@ -37,7 +37,7 @@ By pairing traditional NLP with BERT, the analysis delivers a richer understandi
 ---
 
 ## ⚠️ Disclaimer
-All datasets were synthetically generated for portfolio purposes and do not contain any real or proprietary data from FEMSA or Oxxo Gas. All entries were simulated to reflect realistic sentiment patterns and customer behavior.
+All datasets were synthetically generated for portfolio purposes and **DO NOT CONTAIN** any real or proprietary data from FEMSA or Oxxo Gas. All entries were simulated to reflect realistic sentiment patterns and customer behavior.
 
 
 ---
