@@ -22,7 +22,7 @@ To extract service-quality insights from unstructured comments using a **two-sta
 
 ### **Stage 2 – BERT Deep Learning Enhancement**
 - **Model:** `bert-base-uncased`  
-- **Approach:** Zero-shot classification for Positive / Neutral / Negative sentiment  
+- **Approach:** Zero-shot classification for Positive / Neutral / Negative sentiment — meaning the pre-trained BERT model applies its existing language knowledge to classify feedback without being retrained on this specific dataset.
 - **Added Value:** Captures context, nuance, and ambiguous sentiment missed by classical models  
 - **Outcome:** Even with a modest 36% accuracy (no fine-tuning), BERT detected subtle linguistic cues that provided actionable insights for service improvement
 
