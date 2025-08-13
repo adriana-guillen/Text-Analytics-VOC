@@ -1,19 +1,44 @@
-💬 Voice of the Customer & Employee – Sentiment Analysis at a Fuel Retail Chain.
+# 💬 Voice of the Customer & Employee – Sentiment Analysis at a Fuel Retail Chain
 
 **Portfolio Project | Business Analytics | Text Analytics | NLP**
 
 This project simulates a real-world sentiment analysis initiative I led in 2012 at **Oxxo Gas**, a major fuel retail chain in Mexico, owned by **FEMSA**, one of Latin America's largest retail and logistics conglomerates.
 
-The analysis focuses on open-ended feedback gathered from three key sources:
+The analysis focuses on open-ended feedback gathered from three key sources:  
 
-- 🕵️‍♀️ **Mystery Shoppers** (external evaluators)
-- 👥 **External Customers** (gas station clients)
-- 🧑‍💼 **Internal Employees** (company staff visiting the stations)
+- 🕵 **Mystery Shoppers** (external evaluators)  
+- 🛒 **External Customers** (gas station clients)  
+- 👩‍💼 **Internal Employees** (company staff visiting the stations)  
 
-The objective is to extract service-quality insights from unstructured comments using **classical NLP techniques** — including **TF-IDF**, **Word2Vec**, and a roadmap to **BERT** — to support data-driven service improvement decisions.
+---
 
-**🔒 Disclaimer:**  
-All datasets were synthetically generated for portfolio purposes and do not contain any real or proprietary data from FEMSA or OxxoGas. All entries were simulated to reflect realistic sentiment patterns and customer behavior.
+## 🎯 Objective
+To extract service-quality insights from unstructured comments using a **two-stage NLP approach**:
+
+### **Stage 1 – Classical NLP Techniques**
+- **Methods:** TF-IDF, Word2Vec  
+- **Models:** Logistic Regression, Random Forest  
+- **Output:** Baseline sentiment classification, keyword frequency analysis, word clouds, PCA visualizations
+
+### **Stage 2 – BERT Deep Learning Enhancement**
+- **Model:** `bert-base-uncased`  
+- **Approach:** Zero-shot classification for Positive / Neutral / Negative sentiment  
+- **Added Value:** Captures context, nuance, and ambiguous sentiment missed by classical models  
+- **Outcome:** Even with a modest 36% accuracy (no fine-tuning), BERT detected subtle linguistic cues that provided actionable insights for service improvement
+
+---
+
+## 📊 Business Impact
+By pairing traditional NLP with BERT, the analysis delivers a richer understanding of customer and employee perceptions — supporting operational decisions to:
+- Improve service quality  
+- Refine employee training programs  
+- Prioritize improvements at underperforming stations  
+
+---
+
+## ⚠️ Disclaimer
+All datasets were synthetically generated for portfolio purposes and do not contain any real or proprietary data from FEMSA or Oxxo Gas. All entries were simulated to reflect realistic sentiment patterns and customer behavior.
+
 
 ---
 
