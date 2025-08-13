@@ -24,7 +24,7 @@ To extract service-quality insights from unstructured comments using a **two-sta
 - **Model:** `bert-base-uncased`  
 - **Approach:** Zero-shot classification for Positive / Neutral / Negative sentiment — meaning the pre-trained BERT model applies its existing language knowledge to classify feedback without being retrained on this specific dataset.
 - **Added Value:** Captures context, nuance, and ambiguous sentiment missed by classical models  
-- **Outcome:** Achieved 36% accuracy in a zero-shot setting — yet BERT successfully identified nuanced and context-dependent sentiment shifts, uncovering insights that classical models overlooked and directly supporting targeted service improvements.
+- **Outcome:** In a zero-shot configuration, BERT successfully identified nuanced and context-dependent sentiment shifts without requiring domain-specific training, uncovering insights that classical models missed and enabling targeted service improvements.
 
 ---
 
