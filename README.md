@@ -85,18 +85,11 @@ The dataset is **synthetic**, built exclusively for portfolio purposes and inspi
 
 ---
 
-## 💡 Key Takeaways
-
-- Word2Vec embeddings captured **context and meaning** better than sparse TF-IDF vectors.
-- **Logistic Regression** underperformed on complex sentiment boundaries — while Random Forest generalized well.
-- This pipeline can scale across other customer-facing business units for performance monitoring.
-
----
-
-## 🔄 Next Steps
-
-- Integrate a **fine-tuned BERT classifier** to evaluate performance on ambiguous or subtle feedback.
-- Test real-world deployment scenarios (e.g., stream processing, email surveys, internal service audits).
+💡 **Key Takeaways**
+- Word2Vec embeddings captured **context and meaning** better than sparse TF-IDF vectors.  
+- Logistic Regression underperformed on complex sentiment boundaries — while Random Forest generalized well.  
+- BERT (zero-shot, no fine-tuning) identified subtle and context-dependent sentiment cues that classical models missed, adding valuable depth to the analysis.  
+- This pipeline can scale across other customer-facing business units for performance monitoring. 
 
 ---
 
