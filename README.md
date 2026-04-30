@@ -20,3 +20,13 @@ The approach standardizes fragmented feedback into a **comparable operational si
 
 **c) Operational Decision Layer.**  
 By making these discrepancies visible, the model enables **earlier detection of service failures** and more consistent monitoring of execution across locations. This supports structured monthly review processes, where operational teams **identify recurring issues**, **define corrective actions**, and **prioritize interventions** to improve service consistency across regions.
+
+*No proprietary or confidential data from FEMSA or any organization is included.*
+
+---
+
+## Full Analysis.
+
+The complete methodology, data preparation, modeling approach, and detailed results are available in the notebook:
+[View Notebook](https://github.com/adriana-guillen/bodega-revenue-leakage/blob/main/bodega_revenue_leakage.ipynb)
+
