@@ -28,5 +28,5 @@ By making these discrepancies visible, the model enables **earlier detection of 
 ## Full Analysis.
 
 The complete methodology, data preparation, modeling approach, and detailed results are available in the notebook:
-[View Notebook](https://github.com/adriana-guillen/Text-Analytics-VOC/blob/main/VOC_operational_experience.ipynb)
+[View Notebook](https://github.com/adriana-guillen/Voice-of-Customer-Operational-Insights/blob/main/VOC_operational_intelligence.ipynb)
 
