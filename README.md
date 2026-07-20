@@ -1,4 +1,4 @@
-# Voice of the Customer (VOC): Sentiment Analysis for Operational Experience.
+# Voice of the Customer (VOC): Sentiment Analysis for Operational Intelligence.
 
 ## 1. Executive Summary.
 
